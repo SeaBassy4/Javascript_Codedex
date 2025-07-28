@@ -1,0 +1,12 @@
+console.log("==================================");
+console.log("         Sebastian's Diner!       ");
+console.log("----------------------------------");
+console.log("           Order Details          ");
+console.log("----------------------------------");
+console.log("Item           Quantity   Price");
+console.log("----------------------------------");
+console.log("🍒 Cherry Pie     1        17.99  ");
+console.log("🍗 Fried Chick.   1        15.49  ");
+console.log("----------------------------------");
+console.log("Total                      33.48  ");
+console.log("==================================");
